@@ -1,0 +1,1001 @@
+nivelJogador,rankMissao,perigo,resultado,tipoMissao,xpRecebida,ouroRecebido
+5,D,facil,facil,resgate,2,300
+4,D,facil,facil,espionagem,2,300
+3,C,medio,medio,resgate,3,500
+1,B,dificil,dificil,espionagem,4,700
+6,B,facil,facil,espionagem,4,700
+6,A,intermediario,intermediario,ataque,4,1000
+3,SSS,boa sorte,boa sorte,defesa,9,5000
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,D,facil,facil,resgate,2,300
+3,D,facil,facil,defesa,2,300
+6,A,intermediario,intermediario,ataque,4,1000
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+1,B,dificil,dificil,resgate,4,700
+3,SS,boa sorte,boa sorte,resgate,7,1700
+6,B,facil,facil,espionagem,4,700
+1,D,intermediario,intermediario,ataque,2,300
+5,B,intermediario,intermediario,resgate,4,700
+6,C,facil,facil,resgate,3,500
+5,B,intermediario,intermediario,defesa,4,700
+2,A,dificil,dificil,espionagem,4,1000
+6,B,facil,facil,espionagem,4,700
+4,B,intermediario,intermediario,espionagem,4,700
+6,B,facil,facil,espionagem,4,700
+6,B,facil,facil,espionagem,4,700
+2,D,facil,facil,espionagem,2,300
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+4,S,impossivel,impossivel,espionagem,5,1200
+6,A,intermediario,intermediario,ataque,4,1000
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,D,facil,facil,resgate,2,300
+6,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,C,medio,medio,resgate,3,500
+3,A,dificil,dificil,defesa,4,1000
+4,SS,boa sorte,boa sorte,defesa,7,1700
+4,B,intermediario,intermediario,defesa,4,700
+4,D,facil,facil,ataque,2,300
+5,SS,boa sorte,boa sorte,ataque,7,1700
+5,D,facil,facil,ataque,2,300
+5,C,facil,facil,espionagem,3,500
+3,SS,boa sorte,boa sorte,ataque,7,1700
+3,SS,boa sorte,boa sorte,ataque,7,1700
+5,C,facil,facil,resgate,3,500
+4,D,facil,facil,defesa,2,300
+5,SSS,boa sorte,boa sorte,defesa,9,5000
+4,C,intermediario,intermediario,resgate,3,500
+6,SS,impossivel,impossivel,defesa,7,1700
+4,S,impossivel,impossivel,defesa,5,1200
+3,A,dificil,dificil,defesa,4,1000
+1,SSS,boa sorte,boa sorte,defesa,9,5000
+2,SS,boa sorte,boa sorte,resgate,7,1700
+2,S,impossivel,impossivel,resgate,5,1200
+2,B,medio,medio,defesa,4,700
+5,SSS,boa sorte,boa sorte,defesa,9,5000
+1,A,dificil,dificil,resgate,4,1000
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+3,B,medio,medio,espionagem,4,700
+6,A,intermediario,intermediario,resgate,4,1000
+3,C,medio,medio,resgate,3,500
+6,D,facil,facil,resgate,2,300
+6,A,intermediario,intermediario,defesa,4,1000
+6,C,facil,facil,ataque,3,500
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+4,SS,boa sorte,boa sorte,resgate,7,1700
+5,SSS,boa sorte,boa sorte,defesa,9,5000
+4,D,facil,facil,ataque,2,300
+1,D,intermediario,intermediario,resgate,2,300
+6,B,facil,facil,resgate,4,700
+6,D,facil,facil,espionagem,2,300
+2,B,medio,medio,ataque,4,700
+3,SS,boa sorte,boa sorte,resgate,7,1700
+5,S,dificil,dificil,ataque,5,1200
+5,B,intermediario,intermediario,ataque,4,700
+3,B,medio,medio,defesa,4,700
+1,SS,boa sorte,boa sorte,espionagem,7,1700
+2,D,facil,facil,defesa,2,300
+6,C,facil,facil,espionagem,3,500
+2,A,dificil,dificil,ataque,4,1000
+6,C,facil,facil,ataque,3,500
+1,S,impossivel,impossivel,ataque,5,1200
+2,A,dificil,dificil,ataque,4,1000
+4,C,intermediario,intermediario,resgate,3,500
+3,D,facil,facil,ataque,2,300
+6,B,facil,facil,resgate,4,700
+5,SSS,boa sorte,boa sorte,ataque,9,5000
+1,SSS,boa sorte,boa sorte,defesa,9,5000
+5,D,facil,facil,espionagem,2,300
+3,B,medio,medio,resgate,4,700
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+1,D,intermediario,intermediario,resgate,2,300
+3,S,impossivel,impossivel,ataque,5,1200
+3,C,medio,medio,defesa,3,500
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+6,C,facil,facil,resgate,3,500
+6,S,dificil,dificil,defesa,5,1200
+2,A,dificil,dificil,ataque,4,1000
+1,SS,boa sorte,boa sorte,defesa,7,1700
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,SSS,boa sorte,boa sorte,defesa,9,5000
+1,A,dificil,dificil,ataque,4,1000
+5,SS,boa sorte,boa sorte,defesa,7,1700
+1,S,impossivel,impossivel,resgate,5,1200
+5,SS,boa sorte,boa sorte,ataque,7,1700
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+3,D,facil,facil,ataque,2,300
+5,A,medio,medio,ataque,4,1000
+2,B,medio,medio,resgate,4,700
+5,B,intermediario,intermediario,defesa,4,700
+2,B,medio,medio,defesa,4,700
+2,D,facil,facil,defesa,2,300
+5,B,intermediario,intermediario,espionagem,4,700
+3,A,dificil,dificil,defesa,4,1000
+4,SSS,boa sorte,boa sorte,resgate,9,5000
+2,D,facil,facil,espionagem,2,300
+2,C,intermediario,intermediario,resgate,3,500
+4,A,medio,medio,ataque,4,1000
+2,A,dificil,dificil,resgate,4,1000
+5,SS,boa sorte,boa sorte,espionagem,7,1700
+4,B,intermediario,intermediario,resgate,4,700
+3,D,facil,facil,ataque,2,300
+4,A,medio,medio,espionagem,4,1000
+1,A,dificil,dificil,defesa,4,1000
+5,SSS,boa sorte,boa sorte,defesa,9,5000
+1,SS,boa sorte,boa sorte,ataque,7,1700
+6,D,facil,facil,ataque,2,300
+5,B,intermediario,intermediario,resgate,4,700
+3,C,medio,medio,ataque,3,500
+4,SS,boa sorte,boa sorte,resgate,7,1700
+4,A,medio,medio,defesa,4,1000
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+4,SSS,boa sorte,boa sorte,resgate,9,5000
+5,D,facil,facil,resgate,2,300
+6,SS,impossivel,impossivel,espionagem,7,1700
+1,S,impossivel,impossivel,resgate,5,1200
+6,B,facil,facil,resgate,4,700
+4,SSS,boa sorte,boa sorte,resgate,9,5000
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,S,impossivel,impossivel,espionagem,5,1200
+2,SSS,boa sorte,boa sorte,ataque,9,5000
+6,D,facil,facil,espionagem,2,300
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+3,B,medio,medio,espionagem,4,700
+5,S,dificil,dificil,defesa,5,1200
+6,D,facil,facil,resgate,2,300
+6,A,intermediario,intermediario,ataque,4,1000
+6,C,facil,facil,defesa,3,500
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+6,B,facil,facil,espionagem,4,700
+2,A,dificil,dificil,defesa,4,1000
+6,SSS,boa sorte,boa sorte,defesa,9,5000
+4,SS,boa sorte,boa sorte,defesa,7,1700
+2,D,facil,facil,resgate,2,300
+6,A,intermediario,intermediario,defesa,4,1000
+3,C,medio,medio,resgate,3,500
+5,SS,boa sorte,boa sorte,defesa,7,1700
+6,S,dificil,dificil,espionagem,5,1200
+6,D,facil,facil,resgate,2,300
+1,A,dificil,dificil,espionagem,4,1000
+5,SS,boa sorte,boa sorte,resgate,7,1700
+4,B,intermediario,intermediario,defesa,4,700
+3,B,medio,medio,defesa,4,700
+2,D,facil,facil,ataque,2,300
+6,A,intermediario,intermediario,defesa,4,1000
+5,D,facil,facil,ataque,2,300
+6,B,facil,facil,ataque,4,700
+6,SS,impossivel,impossivel,defesa,7,1700
+5,C,facil,facil,resgate,3,500
+5,B,intermediario,intermediario,defesa,4,700
+6,S,dificil,dificil,ataque,5,1200
+6,D,facil,facil,espionagem,2,300
+4,S,impossivel,impossivel,espionagem,5,1200
+5,D,facil,facil,espionagem,2,300
+2,D,facil,facil,defesa,2,300
+1,S,impossivel,impossivel,resgate,5,1200
+3,SSS,boa sorte,boa sorte,defesa,9,5000
+6,C,facil,facil,resgate,3,500
+3,A,dificil,dificil,defesa,4,1000
+5,SSS,boa sorte,boa sorte,ataque,9,5000
+5,A,medio,medio,resgate,4,1000
+1,D,intermediario,intermediario,espionagem,2,300
+6,A,intermediario,intermediario,espionagem,4,1000
+1,S,impossivel,impossivel,ataque,5,1200
+6,A,intermediario,intermediario,defesa,4,1000
+5,S,dificil,dificil,defesa,5,1200
+5,C,facil,facil,ataque,3,500
+4,SSS,boa sorte,boa sorte,defesa,9,5000
+1,C,medio,medio,defesa,3,500
+1,S,impossivel,impossivel,resgate,5,1200
+6,B,facil,facil,espionagem,4,700
+1,SSS,boa sorte,boa sorte,ataque,9,5000
+1,S,impossivel,impossivel,resgate,5,1200
+1,S,impossivel,impossivel,ataque,5,1200
+4,B,intermediario,intermediario,defesa,4,700
+4,C,intermediario,intermediario,resgate,3,500
+3,S,impossivel,impossivel,resgate,5,1200
+1,SS,boa sorte,boa sorte,defesa,7,1700
+3,C,medio,medio,espionagem,3,500
+5,A,medio,medio,defesa,4,1000
+1,B,dificil,dificil,espionagem,4,700
+1,B,dificil,dificil,ataque,4,700
+2,S,impossivel,impossivel,espionagem,5,1200
+1,C,medio,medio,espionagem,3,500
+2,A,dificil,dificil,resgate,4,1000
+6,SS,impossivel,impossivel,ataque,7,1700
+2,D,facil,facil,espionagem,2,300
+6,SS,impossivel,impossivel,ataque,7,1700
+3,A,dificil,dificil,resgate,4,1000
+3,D,facil,facil,espionagem,2,300
+5,D,facil,facil,ataque,2,300
+6,B,facil,facil,defesa,4,700
+2,D,facil,facil,defesa,2,300
+3,A,dificil,dificil,resgate,4,1000
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,SSS,boa sorte,boa sorte,ataque,9,5000
+1,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,S,dificil,dificil,ataque,5,1200
+5,S,dificil,dificil,defesa,5,1200
+1,B,dificil,dificil,resgate,4,700
+5,SS,boa sorte,boa sorte,defesa,7,1700
+2,S,impossivel,impossivel,ataque,5,1200
+2,SSS,boa sorte,boa sorte,ataque,9,5000
+2,B,medio,medio,resgate,4,700
+3,SS,boa sorte,boa sorte,ataque,7,1700
+2,SS,boa sorte,boa sorte,defesa,7,1700
+3,S,impossivel,impossivel,ataque,5,1200
+1,D,intermediario,intermediario,resgate,2,300
+6,A,intermediario,intermediario,ataque,4,1000
+4,C,intermediario,intermediario,ataque,3,500
+3,SSS,boa sorte,boa sorte,resgate,9,5000
+2,SSS,boa sorte,boa sorte,resgate,9,5000
+5,C,facil,facil,defesa,3,500
+1,SSS,boa sorte,boa sorte,espionagem,9,5000
+5,B,intermediario,intermediario,defesa,4,700
+5,B,intermediario,intermediario,ataque,4,700
+2,A,dificil,dificil,espionagem,4,1000
+1,D,intermediario,intermediario,defesa,2,300
+2,B,medio,medio,espionagem,4,700
+1,S,impossivel,impossivel,resgate,5,1200
+1,C,medio,medio,resgate,3,500
+1,C,medio,medio,resgate,3,500
+5,SS,boa sorte,boa sorte,resgate,7,1700
+5,SS,boa sorte,boa sorte,resgate,7,1700
+5,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,B,dificil,dificil,resgate,4,700
+4,B,intermediario,intermediario,defesa,4,700
+5,C,facil,facil,defesa,3,500
+3,A,dificil,dificil,espionagem,4,1000
+2,S,impossivel,impossivel,defesa,5,1200
+1,S,impossivel,impossivel,ataque,5,1200
+6,B,facil,facil,resgate,4,700
+1,S,impossivel,impossivel,defesa,5,1200
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+1,B,dificil,dificil,resgate,4,700
+3,D,facil,facil,ataque,2,300
+3,SSS,boa sorte,boa sorte,defesa,9,5000
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+6,C,facil,facil,resgate,3,500
+2,C,intermediario,intermediario,espionagem,3,500
+4,S,impossivel,impossivel,resgate,5,1200
+2,D,facil,facil,resgate,2,300
+6,D,facil,facil,espionagem,2,300
+5,SS,boa sorte,boa sorte,resgate,7,1700
+1,C,medio,medio,ataque,3,500
+2,A,dificil,dificil,espionagem,4,1000
+5,C,facil,facil,ataque,3,500
+3,SS,boa sorte,boa sorte,espionagem,7,1700
+6,S,dificil,dificil,espionagem,5,1200
+3,SSS,boa sorte,boa sorte,defesa,9,5000
+5,S,dificil,dificil,resgate,5,1200
+4,B,intermediario,intermediario,resgate,4,700
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+1,D,intermediario,intermediario,resgate,2,300
+4,S,impossivel,impossivel,defesa,5,1200
+3,SS,boa sorte,boa sorte,defesa,7,1700
+6,D,facil,facil,defesa,2,300
+6,D,facil,facil,resgate,2,300
+2,D,facil,facil,espionagem,2,300
+5,D,facil,facil,defesa,2,300
+1,B,dificil,dificil,resgate,4,700
+3,B,medio,medio,resgate,4,700
+4,A,medio,medio,espionagem,4,1000
+5,B,intermediario,intermediario,ataque,4,700
+4,SS,boa sorte,boa sorte,defesa,7,1700
+5,C,facil,facil,ataque,3,500
+5,D,facil,facil,resgate,2,300
+4,SSS,boa sorte,boa sorte,resgate,9,5000
+6,SS,impossivel,impossivel,ataque,7,1700
+4,C,intermediario,intermediario,resgate,3,500
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+1,C,medio,medio,resgate,3,500
+6,B,facil,facil,resgate,4,700
+3,D,facil,facil,resgate,2,300
+1,C,medio,medio,resgate,3,500
+3,B,medio,medio,defesa,4,700
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+3,B,medio,medio,resgate,4,700
+1,S,impossivel,impossivel,resgate,5,1200
+3,S,impossivel,impossivel,espionagem,5,1200
+4,SSS,boa sorte,boa sorte,defesa,9,5000
+2,SS,boa sorte,boa sorte,resgate,7,1700
+2,A,dificil,dificil,ataque,4,1000
+1,B,dificil,dificil,defesa,4,700
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+1,C,medio,medio,espionagem,3,500
+3,C,medio,medio,defesa,3,500
+4,A,medio,medio,espionagem,4,1000
+5,B,intermediario,intermediario,ataque,4,700
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+5,S,dificil,dificil,defesa,5,1200
+4,D,facil,facil,ataque,2,300
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+4,SSS,boa sorte,boa sorte,resgate,9,5000
+6,B,facil,facil,defesa,4,700
+4,A,medio,medio,ataque,4,1000
+2,A,dificil,dificil,defesa,4,1000
+5,S,dificil,dificil,defesa,5,1200
+3,C,medio,medio,defesa,3,500
+2,D,facil,facil,resgate,2,300
+6,B,facil,facil,defesa,4,700
+5,A,medio,medio,espionagem,4,1000
+5,A,medio,medio,ataque,4,1000
+1,A,dificil,dificil,defesa,4,1000
+4,C,intermediario,intermediario,resgate,3,500
+6,SS,impossivel,impossivel,resgate,7,1700
+3,B,medio,medio,ataque,4,700
+3,B,medio,medio,ataque,4,700
+4,D,facil,facil,espionagem,2,300
+2,D,facil,facil,espionagem,2,300
+1,SS,boa sorte,boa sorte,ataque,7,1700
+2,B,medio,medio,resgate,4,700
+3,A,dificil,dificil,resgate,4,1000
+1,B,dificil,dificil,ataque,4,700
+2,A,dificil,dificil,ataque,4,1000
+4,A,medio,medio,ataque,4,1000
+6,SSS,boa sorte,boa sorte,ataque,9,5000
+4,B,intermediario,intermediario,resgate,4,700
+1,S,impossivel,impossivel,defesa,5,1200
+6,C,facil,facil,espionagem,3,500
+2,SS,boa sorte,boa sorte,ataque,7,1700
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+6,D,facil,facil,resgate,2,300
+1,B,dificil,dificil,ataque,4,700
+4,B,intermediario,intermediario,espionagem,4,700
+1,S,impossivel,impossivel,defesa,5,1200
+6,D,facil,facil,resgate,2,300
+6,A,intermediario,intermediario,defesa,4,1000
+6,B,facil,facil,espionagem,4,700
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,A,intermediario,intermediario,ataque,4,1000
+2,C,intermediario,intermediario,defesa,3,500
+1,A,dificil,dificil,defesa,4,1000
+4,S,impossivel,impossivel,ataque,5,1200
+4,D,facil,facil,defesa,2,300
+5,D,facil,facil,ataque,2,300
+1,SS,boa sorte,boa sorte,ataque,7,1700
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+5,SSS,boa sorte,boa sorte,defesa,9,5000
+3,B,medio,medio,defesa,4,700
+5,A,medio,medio,espionagem,4,1000
+6,D,facil,facil,defesa,2,300
+5,SS,boa sorte,boa sorte,defesa,7,1700
+6,SSS,boa sorte,boa sorte,espionagem,9,5000
+4,D,facil,facil,resgate,2,300
+1,S,impossivel,impossivel,defesa,5,1200
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,SS,boa sorte,boa sorte,ataque,7,1700
+1,A,dificil,dificil,espionagem,4,1000
+6,SS,impossivel,impossivel,defesa,7,1700
+2,A,dificil,dificil,espionagem,4,1000
+2,SS,boa sorte,boa sorte,resgate,7,1700
+2,D,facil,facil,ataque,2,300
+2,C,intermediario,intermediario,espionagem,3,500
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+2,D,facil,facil,defesa,2,300
+1,SS,boa sorte,boa sorte,ataque,7,1700
+1,A,dificil,dificil,defesa,4,1000
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+4,C,intermediario,intermediario,ataque,3,500
+2,SS,boa sorte,boa sorte,ataque,7,1700
+2,S,impossivel,impossivel,espionagem,5,1200
+2,S,impossivel,impossivel,espionagem,5,1200
+1,S,impossivel,impossivel,defesa,5,1200
+1,B,dificil,dificil,resgate,4,700
+1,S,impossivel,impossivel,resgate,5,1200
+4,S,impossivel,impossivel,resgate,5,1200
+2,S,impossivel,impossivel,ataque,5,1200
+1,D,intermediario,intermediario,resgate,2,300
+5,D,facil,facil,ataque,2,300
+3,D,facil,facil,espionagem,2,300
+6,SS,impossivel,impossivel,espionagem,7,1700
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+6,SS,impossivel,impossivel,defesa,7,1700
+4,D,facil,facil,defesa,2,300
+5,B,intermediario,intermediario,resgate,4,700
+4,S,impossivel,impossivel,resgate,5,1200
+5,S,dificil,dificil,resgate,5,1200
+1,D,intermediario,intermediario,ataque,2,300
+2,SS,boa sorte,boa sorte,resgate,7,1700
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+6,SS,impossivel,impossivel,espionagem,7,1700
+3,B,medio,medio,resgate,4,700
+1,A,dificil,dificil,espionagem,4,1000
+1,B,dificil,dificil,defesa,4,700
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+5,SSS,boa sorte,boa sorte,espionagem,9,5000
+4,A,medio,medio,espionagem,4,1000
+4,C,intermediario,intermediario,defesa,3,500
+2,SS,boa sorte,boa sorte,ataque,7,1700
+5,D,facil,facil,espionagem,2,300
+6,S,dificil,dificil,espionagem,5,1200
+5,C,facil,facil,resgate,3,500
+5,C,facil,facil,defesa,3,500
+5,SSS,boa sorte,boa sorte,ataque,9,5000
+3,B,medio,medio,resgate,4,700
+5,A,medio,medio,espionagem,4,1000
+5,C,facil,facil,defesa,3,500
+3,B,medio,medio,ataque,4,700
+5,A,medio,medio,espionagem,4,1000
+5,SS,boa sorte,boa sorte,resgate,7,1700
+3,A,dificil,dificil,ataque,4,1000
+1,SS,boa sorte,boa sorte,defesa,7,1700
+2,C,intermediario,intermediario,espionagem,3,500
+4,B,intermediario,intermediario,espionagem,4,700
+6,SSS,boa sorte,boa sorte,espionagem,9,5000
+2,C,intermediario,intermediario,ataque,3,500
+5,SS,boa sorte,boa sorte,resgate,7,1700
+4,A,medio,medio,ataque,4,1000
+1,SSS,boa sorte,boa sorte,espionagem,9,5000
+4,SSS,boa sorte,boa sorte,defesa,9,5000
+6,B,facil,facil,defesa,4,700
+2,C,intermediario,intermediario,resgate,3,500
+5,SS,boa sorte,boa sorte,resgate,7,1700
+5,A,medio,medio,ataque,4,1000
+5,A,medio,medio,espionagem,4,1000
+3,B,medio,medio,espionagem,4,700
+1,S,impossivel,impossivel,espionagem,5,1200
+1,A,dificil,dificil,resgate,4,1000
+6,SS,impossivel,impossivel,defesa,7,1700
+5,D,facil,facil,defesa,2,300
+5,A,medio,medio,espionagem,4,1000
+6,C,facil,facil,resgate,3,500
+1,D,intermediario,intermediario,ataque,2,300
+3,C,medio,medio,ataque,3,500
+1,S,impossivel,impossivel,espionagem,5,1200
+2,S,impossivel,impossivel,ataque,5,1200
+6,D,facil,facil,resgate,2,300
+4,C,intermediario,intermediario,resgate,3,500
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,A,intermediario,intermediario,ataque,4,1000
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+1,B,dificil,dificil,resgate,4,700
+6,D,facil,facil,espionagem,2,300
+3,SS,boa sorte,boa sorte,espionagem,7,1700
+6,SS,impossivel,impossivel,espionagem,7,1700
+6,A,intermediario,intermediario,resgate,4,1000
+1,C,medio,medio,defesa,3,500
+1,S,impossivel,impossivel,resgate,5,1200
+2,A,dificil,dificil,espionagem,4,1000
+6,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,B,dificil,dificil,espionagem,4,700
+2,C,intermediario,intermediario,defesa,3,500
+6,A,intermediario,intermediario,ataque,4,1000
+3,SS,boa sorte,boa sorte,ataque,7,1700
+2,SS,boa sorte,boa sorte,ataque,7,1700
+1,D,intermediario,intermediario,resgate,2,300
+4,SS,boa sorte,boa sorte,defesa,7,1700
+1,S,impossivel,impossivel,defesa,5,1200
+4,B,intermediario,intermediario,espionagem,4,700
+1,SS,boa sorte,boa sorte,espionagem,7,1700
+4,C,intermediario,intermediario,defesa,3,500
+2,C,intermediario,intermediario,defesa,3,500
+3,D,facil,facil,ataque,2,300
+3,C,medio,medio,ataque,3,500
+5,S,dificil,dificil,ataque,5,1200
+3,A,dificil,dificil,espionagem,4,1000
+2,SS,boa sorte,boa sorte,ataque,7,1700
+1,SSS,boa sorte,boa sorte,defesa,9,5000
+2,D,facil,facil,defesa,2,300
+2,A,dificil,dificil,espionagem,4,1000
+3,C,medio,medio,ataque,3,500
+1,D,intermediario,intermediario,ataque,2,300
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+5,S,dificil,dificil,defesa,5,1200
+2,S,impossivel,impossivel,resgate,5,1200
+1,D,intermediario,intermediario,espionagem,2,300
+2,D,facil,facil,espionagem,2,300
+1,C,medio,medio,ataque,3,500
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,SS,boa sorte,boa sorte,resgate,7,1700
+5,SS,boa sorte,boa sorte,ataque,7,1700
+3,SS,boa sorte,boa sorte,resgate,7,1700
+6,A,intermediario,intermediario,defesa,4,1000
+6,SS,impossivel,impossivel,espionagem,7,1700
+1,A,dificil,dificil,defesa,4,1000
+3,C,medio,medio,ataque,3,500
+4,C,intermediario,intermediario,ataque,3,500
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+4,SS,boa sorte,boa sorte,ataque,7,1700
+2,B,medio,medio,ataque,4,700
+5,SS,boa sorte,boa sorte,espionagem,7,1700
+5,B,intermediario,intermediario,espionagem,4,700
+2,B,medio,medio,defesa,4,700
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,C,medio,medio,resgate,3,500
+2,D,facil,facil,resgate,2,300
+6,SS,impossivel,impossivel,espionagem,7,1700
+6,S,dificil,dificil,espionagem,5,1200
+2,A,dificil,dificil,defesa,4,1000
+2,SS,boa sorte,boa sorte,defesa,7,1700
+3,B,medio,medio,defesa,4,700
+5,SS,boa sorte,boa sorte,defesa,7,1700
+1,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,SS,boa sorte,boa sorte,defesa,7,1700
+6,S,dificil,dificil,resgate,5,1200
+2,SSS,boa sorte,boa sorte,ataque,9,5000
+3,A,dificil,dificil,resgate,4,1000
+3,B,medio,medio,resgate,4,700
+6,S,dificil,dificil,resgate,5,1200
+3,S,impossivel,impossivel,ataque,5,1200
+6,S,dificil,dificil,resgate,5,1200
+5,A,medio,medio,defesa,4,1000
+6,A,intermediario,intermediario,defesa,4,1000
+3,B,medio,medio,defesa,4,700
+2,SS,boa sorte,boa sorte,resgate,7,1700
+1,D,intermediario,intermediario,espionagem,2,300
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,C,facil,facil,espionagem,3,500
+6,A,intermediario,intermediario,ataque,4,1000
+4,B,intermediario,intermediario,resgate,4,700
+2,C,intermediario,intermediario,resgate,3,500
+6,A,intermediario,intermediario,resgate,4,1000
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+5,C,facil,facil,espionagem,3,500
+6,SSS,boa sorte,boa sorte,ataque,9,5000
+1,D,intermediario,intermediario,espionagem,2,300
+5,SSS,boa sorte,boa sorte,ataque,9,5000
+4,A,medio,medio,espionagem,4,1000
+6,C,facil,facil,ataque,3,500
+5,D,facil,facil,defesa,2,300
+6,D,facil,facil,resgate,2,300
+2,SS,boa sorte,boa sorte,defesa,7,1700
+2,D,facil,facil,ataque,2,300
+1,SS,boa sorte,boa sorte,resgate,7,1700
+6,A,intermediario,intermediario,resgate,4,1000
+6,SSS,boa sorte,boa sorte,ataque,9,5000
+3,S,impossivel,impossivel,espionagem,5,1200
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+6,D,facil,facil,ataque,2,300
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+6,C,facil,facil,defesa,3,500
+4,SSS,boa sorte,boa sorte,resgate,9,5000
+2,S,impossivel,impossivel,defesa,5,1200
+1,SS,boa sorte,boa sorte,ataque,7,1700
+4,A,medio,medio,ataque,4,1000
+6,B,facil,facil,espionagem,4,700
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+4,B,intermediario,intermediario,resgate,4,700
+1,SS,boa sorte,boa sorte,espionagem,7,1700
+6,C,facil,facil,defesa,3,500
+4,A,medio,medio,defesa,4,1000
+6,S,dificil,dificil,resgate,5,1200
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+2,D,facil,facil,espionagem,2,300
+2,B,medio,medio,defesa,4,700
+4,D,facil,facil,defesa,2,300
+3,B,medio,medio,resgate,4,700
+6,C,facil,facil,defesa,3,500
+4,S,impossivel,impossivel,defesa,5,1200
+5,A,medio,medio,defesa,4,1000
+3,C,medio,medio,resgate,3,500
+1,SS,boa sorte,boa sorte,defesa,7,1700
+4,D,facil,facil,resgate,2,300
+6,A,intermediario,intermediario,resgate,4,1000
+1,A,dificil,dificil,defesa,4,1000
+4,S,impossivel,impossivel,espionagem,5,1200
+6,S,dificil,dificil,resgate,5,1200
+2,C,intermediario,intermediario,defesa,3,500
+3,SSS,boa sorte,boa sorte,resgate,9,5000
+1,B,dificil,dificil,espionagem,4,700
+1,C,medio,medio,defesa,3,500
+2,SS,boa sorte,boa sorte,defesa,7,1700
+6,B,facil,facil,espionagem,4,700
+3,B,medio,medio,ataque,4,700
+6,D,facil,facil,ataque,2,300
+1,A,dificil,dificil,espionagem,4,1000
+6,D,facil,facil,defesa,2,300
+1,S,impossivel,impossivel,espionagem,5,1200
+4,SS,boa sorte,boa sorte,espionagem,7,1700
+5,C,facil,facil,ataque,3,500
+2,SS,boa sorte,boa sorte,resgate,7,1700
+5,C,facil,facil,espionagem,3,500
+3,S,impossivel,impossivel,espionagem,5,1200
+5,S,dificil,dificil,espionagem,5,1200
+5,S,dificil,dificil,resgate,5,1200
+6,S,dificil,dificil,defesa,5,1200
+3,C,medio,medio,defesa,3,500
+2,A,dificil,dificil,resgate,4,1000
+6,B,facil,facil,espionagem,4,700
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+5,C,facil,facil,espionagem,3,500
+2,SS,boa sorte,boa sorte,resgate,7,1700
+1,D,intermediario,intermediario,espionagem,2,300
+4,A,medio,medio,defesa,4,1000
+6,D,facil,facil,espionagem,2,300
+2,A,dificil,dificil,defesa,4,1000
+1,C,medio,medio,espionagem,3,500
+4,SS,boa sorte,boa sorte,espionagem,7,1700
+3,B,medio,medio,resgate,4,700
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+4,S,impossivel,impossivel,defesa,5,1200
+2,SS,boa sorte,boa sorte,ataque,7,1700
+5,S,dificil,dificil,espionagem,5,1200
+1,SS,boa sorte,boa sorte,espionagem,7,1700
+5,A,medio,medio,ataque,4,1000
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+4,S,impossivel,impossivel,ataque,5,1200
+5,SS,boa sorte,boa sorte,resgate,7,1700
+1,S,impossivel,impossivel,ataque,5,1200
+3,B,medio,medio,defesa,4,700
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+6,A,intermediario,intermediario,defesa,4,1000
+2,D,facil,facil,resgate,2,300
+6,C,facil,facil,espionagem,3,500
+2,SS,boa sorte,boa sorte,defesa,7,1700
+5,B,intermediario,intermediario,resgate,4,700
+2,SS,boa sorte,boa sorte,ataque,7,1700
+6,C,facil,facil,resgate,3,500
+4,A,medio,medio,ataque,4,1000
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+5,B,intermediario,intermediario,resgate,4,700
+3,B,medio,medio,defesa,4,700
+3,SSS,boa sorte,boa sorte,defesa,9,5000
+1,SS,boa sorte,boa sorte,ataque,7,1700
+3,S,impossivel,impossivel,espionagem,5,1200
+4,A,medio,medio,espionagem,4,1000
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,C,medio,medio,espionagem,3,500
+4,A,medio,medio,ataque,4,1000
+5,S,dificil,dificil,ataque,5,1200
+3,C,medio,medio,espionagem,3,500
+4,A,medio,medio,ataque,4,1000
+6,D,facil,facil,ataque,2,300
+6,SS,impossivel,impossivel,ataque,7,1700
+6,SS,impossivel,impossivel,defesa,7,1700
+3,D,facil,facil,espionagem,2,300
+2,S,impossivel,impossivel,resgate,5,1200
+3,S,impossivel,impossivel,resgate,5,1200
+6,D,facil,facil,defesa,2,300
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+3,S,impossivel,impossivel,defesa,5,1200
+2,B,medio,medio,espionagem,4,700
+1,SS,boa sorte,boa sorte,espionagem,7,1700
+5,B,intermediario,intermediario,ataque,4,700
+3,S,impossivel,impossivel,defesa,5,1200
+4,D,facil,facil,espionagem,2,300
+2,A,dificil,dificil,ataque,4,1000
+5,SS,boa sorte,boa sorte,ataque,7,1700
+4,C,intermediario,intermediario,ataque,3,500
+6,B,facil,facil,ataque,4,700
+2,C,intermediario,intermediario,espionagem,3,500
+4,D,facil,facil,ataque,2,300
+5,D,facil,facil,ataque,2,300
+4,B,intermediario,intermediario,espionagem,4,700
+3,SS,boa sorte,boa sorte,ataque,7,1700
+6,SS,impossivel,impossivel,espionagem,7,1700
+6,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,SS,boa sorte,boa sorte,ataque,7,1700
+5,A,medio,medio,ataque,4,1000
+6,C,facil,facil,ataque,3,500
+3,D,facil,facil,espionagem,2,300
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,B,medio,medio,resgate,4,700
+1,SS,boa sorte,boa sorte,ataque,7,1700
+3,SS,boa sorte,boa sorte,espionagem,7,1700
+2,C,intermediario,intermediario,resgate,3,500
+6,D,facil,facil,espionagem,2,300
+1,SS,boa sorte,boa sorte,defesa,7,1700
+5,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,S,dificil,dificil,ataque,5,1200
+4,SS,boa sorte,boa sorte,resgate,7,1700
+1,A,dificil,dificil,espionagem,4,1000
+5,SSS,boa sorte,boa sorte,defesa,9,5000
+5,D,facil,facil,defesa,2,300
+4,D,facil,facil,espionagem,2,300
+6,B,facil,facil,ataque,4,700
+4,S,impossivel,impossivel,resgate,5,1200
+1,A,dificil,dificil,espionagem,4,1000
+5,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,S,impossivel,impossivel,defesa,5,1200
+1,S,impossivel,impossivel,ataque,5,1200
+1,D,intermediario,intermediario,espionagem,2,300
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+2,D,facil,facil,defesa,2,300
+6,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,S,impossivel,impossivel,ataque,5,1200
+1,D,intermediario,intermediario,defesa,2,300
+6,SS,impossivel,impossivel,resgate,7,1700
+1,SSS,boa sorte,boa sorte,espionagem,9,5000
+3,SSS,boa sorte,boa sorte,resgate,9,5000
+6,S,dificil,dificil,defesa,5,1200
+3,D,facil,facil,resgate,2,300
+4,C,intermediario,intermediario,ataque,3,500
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+3,C,medio,medio,defesa,3,500
+4,S,impossivel,impossivel,resgate,5,1200
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+3,B,medio,medio,espionagem,4,700
+1,B,dificil,dificil,ataque,4,700
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+3,B,medio,medio,resgate,4,700
+1,A,dificil,dificil,resgate,4,1000
+2,A,dificil,dificil,resgate,4,1000
+6,SSS,boa sorte,boa sorte,ataque,9,5000
+5,C,facil,facil,defesa,3,500
+2,A,dificil,dificil,defesa,4,1000
+3,D,facil,facil,resgate,2,300
+5,S,dificil,dificil,resgate,5,1200
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+1,B,dificil,dificil,defesa,4,700
+1,S,impossivel,impossivel,espionagem,5,1200
+5,SSS,boa sorte,boa sorte,ataque,9,5000
+5,C,facil,facil,defesa,3,500
+3,D,facil,facil,ataque,2,300
+5,SS,boa sorte,boa sorte,espionagem,7,1700
+6,A,intermediario,intermediario,espionagem,4,1000
+3,B,medio,medio,ataque,4,700
+5,S,dificil,dificil,resgate,5,1200
+1,C,medio,medio,espionagem,3,500
+3,SSS,boa sorte,boa sorte,defesa,9,5000
+4,S,impossivel,impossivel,ataque,5,1200
+1,B,dificil,dificil,ataque,4,700
+2,S,impossivel,impossivel,resgate,5,1200
+1,A,dificil,dificil,defesa,4,1000
+2,A,dificil,dificil,resgate,4,1000
+6,C,facil,facil,resgate,3,500
+5,B,intermediario,intermediario,resgate,4,700
+6,C,facil,facil,ataque,3,500
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+4,S,impossivel,impossivel,ataque,5,1200
+6,S,dificil,dificil,ataque,5,1200
+6,A,intermediario,intermediario,ataque,4,1000
+6,SS,impossivel,impossivel,resgate,7,1700
+3,S,impossivel,impossivel,espionagem,5,1200
+5,SSS,boa sorte,boa sorte,ataque,9,5000
+2,S,impossivel,impossivel,ataque,5,1200
+1,C,medio,medio,espionagem,3,500
+5,A,medio,medio,espionagem,4,1000
+2,S,impossivel,impossivel,defesa,5,1200
+2,S,impossivel,impossivel,defesa,5,1200
+2,C,intermediario,intermediario,ataque,3,500
+2,SSS,boa sorte,boa sorte,espionagem,9,5000
+2,S,impossivel,impossivel,defesa,5,1200
+1,D,intermediario,intermediario,defesa,2,300
+1,C,medio,medio,ataque,3,500
+5,SS,boa sorte,boa sorte,resgate,7,1700
+5,A,medio,medio,resgate,4,1000
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+5,A,medio,medio,espionagem,4,1000
+5,C,facil,facil,defesa,3,500
+6,SSS,boa sorte,boa sorte,defesa,9,5000
+6,A,intermediario,intermediario,defesa,4,1000
+6,C,facil,facil,resgate,3,500
+6,D,facil,facil,resgate,2,300
+1,A,dificil,dificil,resgate,4,1000
+5,C,facil,facil,espionagem,3,500
+4,A,medio,medio,defesa,4,1000
+2,A,dificil,dificil,defesa,4,1000
+6,S,dificil,dificil,resgate,5,1200
+5,C,facil,facil,defesa,3,500
+3,A,dificil,dificil,espionagem,4,1000
+3,D,facil,facil,resgate,2,300
+2,B,medio,medio,espionagem,4,700
+1,S,impossivel,impossivel,ataque,5,1200
+5,B,intermediario,intermediario,resgate,4,700
+1,SS,boa sorte,boa sorte,ataque,7,1700
+3,A,dificil,dificil,defesa,4,1000
+5,SS,boa sorte,boa sorte,ataque,7,1700
+2,D,facil,facil,ataque,2,300
+5,S,dificil,dificil,resgate,5,1200
+2,B,medio,medio,ataque,4,700
+5,SS,boa sorte,boa sorte,defesa,7,1700
+1,S,impossivel,impossivel,defesa,5,1200
+2,SS,boa sorte,boa sorte,ataque,7,1700
+6,C,facil,facil,defesa,3,500
+3,C,medio,medio,espionagem,3,500
+6,SS,impossivel,impossivel,defesa,7,1700
+4,D,facil,facil,defesa,2,300
+1,C,medio,medio,defesa,3,500
+4,S,impossivel,impossivel,defesa,5,1200
+2,D,facil,facil,espionagem,2,300
+6,SS,impossivel,impossivel,espionagem,7,1700
+2,C,intermediario,intermediario,defesa,3,500
+4,SS,boa sorte,boa sorte,defesa,7,1700
+2,B,medio,medio,resgate,4,700
+5,C,facil,facil,defesa,3,500
+6,D,facil,facil,defesa,2,300
+6,C,facil,facil,defesa,3,500
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+4,SS,boa sorte,boa sorte,ataque,7,1700
+5,D,facil,facil,resgate,2,300
+1,S,impossivel,impossivel,espionagem,5,1200
+6,A,intermediario,intermediario,defesa,4,1000
+4,D,facil,facil,espionagem,2,300
+4,A,medio,medio,resgate,4,1000
+6,B,facil,facil,ataque,4,700
+3,A,dificil,dificil,espionagem,4,1000
+2,C,intermediario,intermediario,ataque,3,500
+5,D,facil,facil,ataque,2,300
+2,A,dificil,dificil,espionagem,4,1000
+1,B,dificil,dificil,espionagem,4,700
+4,S,impossivel,impossivel,defesa,5,1200
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,A,dificil,dificil,resgate,4,1000
+1,D,intermediario,intermediario,ataque,2,300
+1,S,impossivel,impossivel,defesa,5,1200
+1,A,dificil,dificil,resgate,4,1000
+4,A,medio,medio,defesa,4,1000
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+3,C,medio,medio,defesa,3,500
+5,B,intermediario,intermediario,espionagem,4,700
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+4,B,intermediario,intermediario,defesa,4,700
+3,C,medio,medio,resgate,3,500
+1,B,dificil,dificil,espionagem,4,700
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+2,A,dificil,dificil,defesa,4,1000
+6,S,dificil,dificil,resgate,5,1200
+2,SS,boa sorte,boa sorte,defesa,7,1700
+2,S,impossivel,impossivel,ataque,5,1200
+6,C,facil,facil,ataque,3,500
+3,D,facil,facil,espionagem,2,300
+5,SS,boa sorte,boa sorte,resgate,7,1700
+5,B,intermediario,intermediario,espionagem,4,700
+3,SS,boa sorte,boa sorte,defesa,7,1700
+6,C,facil,facil,ataque,3,500
+6,S,dificil,dificil,resgate,5,1200
+5,A,medio,medio,resgate,4,1000
+1,S,impossivel,impossivel,resgate,5,1200
+3,D,facil,facil,ataque,2,300
+3,SS,boa sorte,boa sorte,resgate,7,1700
+4,D,facil,facil,defesa,2,300
+4,A,medio,medio,defesa,4,1000
+4,D,facil,facil,ataque,2,300
+6,C,facil,facil,resgate,3,500
+5,C,facil,facil,defesa,3,500
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+4,B,intermediario,intermediario,ataque,4,700
+3,C,medio,medio,espionagem,3,500
+3,S,impossivel,impossivel,defesa,5,1200
+2,B,medio,medio,resgate,4,700
+2,D,facil,facil,espionagem,2,300
+5,SS,boa sorte,boa sorte,espionagem,7,1700
+4,B,intermediario,intermediario,resgate,4,700
+2,S,impossivel,impossivel,espionagem,5,1200
+2,S,impossivel,impossivel,ataque,5,1200
+4,SS,boa sorte,boa sorte,defesa,7,1700
+4,S,impossivel,impossivel,ataque,5,1200
+6,A,intermediario,intermediario,resgate,4,1000
+5,A,medio,medio,ataque,4,1000
+4,C,intermediario,intermediario,espionagem,3,500
+2,D,facil,facil,defesa,2,300
+6,SS,impossivel,impossivel,espionagem,7,1700
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,B,dificil,dificil,defesa,4,700
+4,C,intermediario,intermediario,defesa,3,500
+2,S,impossivel,impossivel,resgate,5,1200
+2,A,dificil,dificil,resgate,4,1000
+5,SS,boa sorte,boa sorte,defesa,7,1700
+3,C,medio,medio,resgate,3,500
+4,D,facil,facil,resgate,2,300
+2,D,facil,facil,resgate,2,300
+3,C,medio,medio,ataque,3,500
+1,S,impossivel,impossivel,resgate,5,1200
+6,SS,impossivel,impossivel,ataque,7,1700
+2,C,intermediario,intermediario,defesa,3,500
+3,S,impossivel,impossivel,espionagem,5,1200
+6,C,facil,facil,ataque,3,500
+3,B,medio,medio,espionagem,4,700
+6,SSS,boa sorte,boa sorte,defesa,9,5000
+4,A,medio,medio,espionagem,4,1000
+4,S,impossivel,impossivel,espionagem,5,1200
+2,B,medio,medio,ataque,4,700
+3,S,impossivel,impossivel,defesa,5,1200
+3,SS,boa sorte,boa sorte,defesa,7,1700
+3,SS,boa sorte,boa sorte,resgate,7,1700
+4,C,intermediario,intermediario,defesa,3,500
+5,SSS,boa sorte,boa sorte,espionagem,9,5000
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+3,B,medio,medio,espionagem,4,700
+5,SS,boa sorte,boa sorte,espionagem,7,1700
+4,C,intermediario,intermediario,ataque,3,500
+3,B,medio,medio,defesa,4,700
+6,S,dificil,dificil,espionagem,5,1200
+5,C,facil,facil,defesa,3,500
+5,SS,boa sorte,boa sorte,resgate,7,1700
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+5,S,dificil,dificil,resgate,5,1200
+2,C,intermediario,intermediario,resgate,3,500
+5,D,facil,facil,resgate,2,300
+5,C,facil,facil,resgate,3,500
+6,SS,impossivel,impossivel,defesa,7,1700
+3,S,impossivel,impossivel,resgate,5,1200
+6,D,facil,facil,espionagem,2,300
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+5,SSS,boa sorte,boa sorte,resgate,9,5000
+1,D,intermediario,intermediario,ataque,2,300
+1,C,medio,medio,ataque,3,500
+2,C,intermediario,intermediario,espionagem,3,500
+1,SSS,boa sorte,boa sorte,espionagem,9,5000
+5,B,intermediario,intermediario,resgate,4,700
+4,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,C,medio,medio,ataque,3,500
+1,B,dificil,dificil,resgate,4,700
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+6,B,facil,facil,ataque,4,700
+5,D,facil,facil,defesa,2,300
+5,SS,boa sorte,boa sorte,resgate,7,1700
+3,D,facil,facil,ataque,2,300
+4,S,impossivel,impossivel,ataque,5,1200
+3,SS,boa sorte,boa sorte,defesa,7,1700
+3,C,medio,medio,defesa,3,500
+3,B,medio,medio,espionagem,4,700
+3,D,facil,facil,defesa,2,300
+6,S,dificil,dificil,espionagem,5,1200
+5,S,dificil,dificil,ataque,5,1200
+3,C,medio,medio,ataque,3,500
+5,A,medio,medio,resgate,4,1000
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+1,SSS,boa sorte,boa sorte,resgate,9,5000
+1,C,medio,medio,resgate,3,500
+4,SSS,boa sorte,boa sorte,ataque,9,5000
+4,SSS,boa sorte,boa sorte,defesa,9,5000
+6,S,dificil,dificil,ataque,5,1200
+3,D,facil,facil,resgate,2,300
+3,D,facil,facil,espionagem,2,300
+5,SS,boa sorte,boa sorte,resgate,7,1700
+5,D,facil,facil,ataque,2,300
+6,SS,impossivel,impossivel,defesa,7,1700
+3,C,medio,medio,espionagem,3,500
+2,A,dificil,dificil,resgate,4,1000
+3,A,dificil,dificil,ataque,4,1000
+1,C,medio,medio,espionagem,3,500
+2,D,facil,facil,espionagem,2,300
+1,C,medio,medio,ataque,3,500
+6,SS,impossivel,impossivel,ataque,7,1700
+2,SSS,boa sorte,boa sorte,defesa,9,5000
+6,D,facil,facil,espionagem,2,300
+5,S,dificil,dificil,ataque,5,1200
+3,A,dificil,dificil,resgate,4,1000
+3,SSS,boa sorte,boa sorte,espionagem,9,5000
+1,C,medio,medio,espionagem,3,500
+2,B,medio,medio,defesa,4,700
+4,S,impossivel,impossivel,resgate,5,1200
+1,D,intermediario,intermediario,espionagem,2,300
+2,SSS,boa sorte,boa sorte,resgate,9,5000
+6,D,facil,facil,ataque,2,300
+1,A,dificil,dificil,ataque,4,1000
+4,D,facil,facil,ataque,2,300
+6,A,intermediario,intermediario,espionagem,4,1000
+6,S,dificil,dificil,ataque,5,1200
+6,SSS,boa sorte,boa sorte,defesa,9,5000
+6,D,facil,facil,defesa,2,300
+2,A,dificil,dificil,espionagem,4,1000
+2,B,medio,medio,espionagem,4,700
+2,A,dificil,dificil,resgate,4,1000
+5,D,facil,facil,espionagem,2,300
+4,A,medio,medio,resgate,4,1000
+6,D,facil,facil,resgate,2,300
+3,C,medio,medio,espionagem,3,500
+3,D,facil,facil,espionagem,2,300
+3,SSS,boa sorte,boa sorte,ataque,9,5000
+1,D,intermediario,intermediario,defesa,2,300
+1,S,impossivel,impossivel,ataque,5,1200
+2,A,dificil,dificil,defesa,4,1000
+1,SSS,boa sorte,boa sorte,ataque,9,5000
+2,D,facil,facil,resgate,2,300
+6,SSS,boa sorte,boa sorte,resgate,9,5000
+1,S,impossivel,impossivel,espionagem,5,1200
+6,D,facil,facil,defesa,2,300
+2,SS,boa sorte,boa sorte,espionagem,7,1700
+4,S,impossivel,impossivel,ataque,5,1200
+3,C,medio,medio,defesa,3,500
+3,S,impossivel,impossivel,defesa,5,1200
+3,SSS,boa sorte,boa sorte,resgate,9,5000
+4,B,intermediario,intermediario,espionagem,4,700
+4,C,intermediario,intermediario,defesa,3,500
+1,C,medio,medio,espionagem,3,500
+5,B,intermediario,intermediario,defesa,4,700
+5,B,intermediario,intermediario,espionagem,4,700
+6,A,intermediario,intermediario,resgate,4,1000
+2,C,intermediario,intermediario,espionagem,3,500
+5,S,dificil,dificil,espionagem,5,1200
+5,B,intermediario,intermediario,espionagem,4,700
+1,B,dificil,dificil,defesa,4,700
+2,S,impossivel,impossivel,ataque,5,1200
+4,SS,boa sorte,boa sorte,resgate,7,1700
+1,C,medio,medio,resgate,3,500
+4,D,facil,facil,ataque,2,300
+3,S,impossivel,impossivel,defesa,5,1200
