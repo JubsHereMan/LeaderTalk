@@ -1,103 +1,82 @@
 import random
 
-#resposta do bot treinado vai entrar mais tarde
-#dificulty=["facil" , "intermediario", "medio","dificil", "impossivel", "Boa sorte"]
-
-
-
-
-
-
-
-#10% de chance de falha 
+# Funções para determinar o resultado com base na dificuldade
 def easy(numeroMedir):
     if numeroMedir <= 10:
-        resultado = 0 # 0 significa falha 
+        return 0  # 0 significa falha
     else:
-        resultado=1 #significa sucesso
+        return 1  # 1 significa sucesso
 
-    print=resultado
-
-#20% de chance de falha 
 def intermediary(numeroMedir):
     if numeroMedir <= 20:
-        resultado = 0 # 0 significa falha 
+        return 0  # 0 significa falha
     else:
-        resultado=1 #significa sucesso
+        return 1  # 1 significa sucesso
 
-    print=resultado
-
-#30% de chance de falha 
 def medium(numeroMedir):
-    if numeroMedir <=30:
-        resultado = 0 # 0 significa falha 
+    if numeroMedir <= 30:
+        return 0  # 0 significa falha
     else:
-        resultado=1 #significa sucesso
+        return 1  # 1 significa sucesso
 
-    print=resultado
-
-#40% de chance de falha 
 def hard(numeroMedir):
-    if numeroMedir <=40:
-        resultado = 0 # 0 significa falha 
+    if numeroMedir <= 40:
+        return 0  # 0 significa falha
     else:
-        resultado=1 #significa sucesso
+        return 1  # 1 significa sucesso
 
-    print=resultado
-#60% de chance de falha 
 def impossible(numeroMedir):
-    if numeroMedir <=60:
-        resultado = 0 # 0 significa falha 
+    if numeroMedir <= 60:
+        return 0  # 0 significa falha
     else:
-        resultado=1 #significa sucesso
+        return 1  # 1 significa sucesso
 
-    print=resultado
-
-#80% de chance de falha 
 def goodLuck(numeroMedir):
-    if numeroMedir <=80:
-        resultado = 0 # 0 significa falha 
+    if numeroMedir <= 80:
+        return 0  # 0 significa falha
     else:
-        resultado=1 #significa sucesso
-
-    print=resultado
+        return 1  # 1 significa sucesso
 
 
-
-
-def medidor(userChoice):
+def medidor(userChoice, numeroMedir):
     if userChoice == 1:
-        easy(numeroMedir)
+        return easy(numeroMedir)
     elif userChoice == 2:
-        intermediary(numeroMedir)
+        return intermediary(numeroMedir)
     elif userChoice == 3:
-        medium(numeroMedir)
+        return medium(numeroMedir)
     elif userChoice == 4:
-        hard(numeroMedir)
+        return hard(numeroMedir)
     elif userChoice == 5:
-        impossible(numeroMedir)
+        return impossible(numeroMedir)
     elif userChoice == 6:
-        goodLuck(numeroMedir)
+        return goodLuck(numeroMedir)
+    else:
+        print("Escolha inválida.")
+        return None
 
 
-UserChoice=int(input('''
-        Escolha  a dificuldade da missão:
+UserChoice = int(input('''
+        Escolha a dificuldade da missão:
           
-        1.facil
-        2.intermediario
-        3.medio
-        4.dificil
-        5.impossivel
-        6.boa sorte
+        1. facil
+        2. intermediario
+        3. medio
+        4. dificil
+        5. impossivel
+        6. boa sorte
         :D
-        RESPOSTA:'''))
+        RESPOSTA: '''))
 
 
-
-numeroMedir= random.randint(1,100)
-print(f'O numero é: {numeroMedir}')
-
-
-medidor(UserChoice)
+numeroMedir = random.randint(1, 100)
+print(f'O número gerado é: {numeroMedir}')
 
 
+resultado = medidor(UserChoice, numeroMedir)
+
+
+if resultado == 0:
+    print("Resultado: Falha!")
+elif resultado == 1:
+    print("Resultado: Sucesso!")
